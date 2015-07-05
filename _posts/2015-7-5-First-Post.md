@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: article
 title: You're up and running!
 tags: cloudhostingproviders
 author: junald_pascua
+teaser: 400x250.gif
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
